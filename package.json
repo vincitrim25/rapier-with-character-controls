@@ -1,0 +1,25 @@
+{
+  "name": "rapier-with-character-controls",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dimforge/rapier3d": "^0.13.1",
+    "three": "^0.164.1",
+    "vite-plugin-commonjs": "^0.10.1",
+    "vite-plugin-wasm": "^3.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "@types/three": "^0.164.1",
+    "sass": "^1.77.2",
+    "vite": "^5.2.11"
+  }
+}
